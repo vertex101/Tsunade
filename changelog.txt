@@ -1,0 +1,16 @@
+v0.0.2 [WIP]
+    Added Mods:
+        Agricraft
+        AppleSkin
+        CraftTweaker
+        ModTweaker
+        FoamFix
+        Inventory Sorter
+        Surge
+        XL Foods
+    Config Changes:
+
+    Updated Mods:
+    
+v0.0.1
+    First release of the modpack
