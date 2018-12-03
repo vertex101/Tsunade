@@ -9,7 +9,7 @@ v0.0.2 [WIP]
         Surge
         XL Foods
     Config Changes:
-        None
+        lowered blocks mined from 96 to 16 for one piece of coal - Simple Quarry
     Updated Mods:
         None
     Forge Update:
