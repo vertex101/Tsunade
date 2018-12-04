@@ -12,6 +12,8 @@ v0.0.2 [WIP]
     Config Changes:
         lowered blocks mined from 96 to 16 for one piece of coal - Simple Quarry
         adjusted config settings - WaterCan [will have to adjust more later after testing]
+        disabled weeds - Agricraft
+        created all the json files for XL Food - Agricraft [also sent a pull reqest to agricraft for the files]
     Updated Mods:
         None
     Forge Update:
