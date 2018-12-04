@@ -2,7 +2,7 @@ v0.0.3 [WIP]
     Added Mods:
         V0id's Smart Backpacks
     Config Changes:
-
+        done some config changes - V0id's Smart Backpacks
     Updated Mods:
 
     Forge Update:
