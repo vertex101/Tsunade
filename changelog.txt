@@ -1,4 +1,13 @@
-v0.0.2 [WIP]
+v0.0.3 [WIP]
+    Added Mods:
+
+    Config Changes:
+
+    Updated Mods:
+
+    Forge Update:
+    
+v0.0.2
     Added Mods:
         Agricraft
         AppleSkin
@@ -7,7 +16,7 @@ v0.0.2 [WIP]
         FoamFix
         Inventory Sorter
         Surge
-        XL Foods
+        XL Foods Mod
         WaterCan
         Stone Torches
     Config Changes:
