@@ -4,6 +4,7 @@ v0.0.3 [WIP]
         Light Overlay Reloaded
     Config Changes:
         done some config changes - V0id's Smart Backpacks
+        removed something that was not needed - V0id's Smart Backpacks
     Updated Mods:
         StoneTorches v2.0.0 > v3.0.0
         FTBLib v5.4.0.68 > v5.4.0.69
