@@ -8,6 +8,7 @@ v0.0.3 [WIP]
     Updated Mods:
         StoneTorches v2.0.0 > v3.0.0
         FTBLib v5.4.0.68 > v5.4.0.69
+        HammerCore v2.0.4.0 >  v2.0.4.1
     Forge Update:
     
 v0.0.2
