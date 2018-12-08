@@ -8,7 +8,7 @@ v0.0.4
     Added Mods:
         Mapwriter 2
     Removed Mods:
-        JourneyMap
+        JourneyMap [due to issues for server side of the modpack causing people to timeout]
     Config Changes:
         added silent gems fluffy puff seeds - Agricraft [also sent pull request to Agricraft]
     Updated Mods:
