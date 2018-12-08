@@ -3,6 +3,7 @@ v0.0.5 [WIP]
         GraveStone Mod
         Iron Chests
         Veining
+        Soul Shards: Respawned
     Config Changes:
     Updated Mods:
     Forge Update:
