@@ -1,6 +1,7 @@
 v0.0.4 [WIP]
     Added Mods:
     Config Changes:
+        added silent gems fluffy puff seeds - Agricraft
     Updated Mods:
     Forge Update:
         None
