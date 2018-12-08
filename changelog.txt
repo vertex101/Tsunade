@@ -1,4 +1,10 @@
-v0.0.4 [WIP]
+v0.0.5 [WIP]
+    Added Mods:
+    Config Changes:
+    Updated Mods:
+    Forge Update:
+        None
+v0.0.4
     Added Mods:
         Mapwriter 2
     Removed Mods:
