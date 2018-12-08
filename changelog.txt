@@ -5,6 +5,9 @@ v0.0.5 [WIP]
         Veining
         Soul Shards: Respawned
     Config Changes:
+        adjusted soul shards config
+        adjusted gravestone config
+        adjusted veining config
     Updated Mods:
     Forge Update:
         None
