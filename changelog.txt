@@ -9,8 +9,11 @@ v0.0.5 [WIP]
         adjusted gravestone config
         adjusted veining config
     Updated Mods:
+        FTBLib v5.4.0.69 > v5.4.0.70
+        FTBUtilities v5.3.0.66 > v5.3.0.67
+        JEI v4.14.0.231 > v4.14.1.235
     Forge Update:
-        None
+        v14.23.5.2795 > v14.23.5.2796
 v0.0.4
     Added Mods:
         Mapwriter 2
